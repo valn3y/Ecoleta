@@ -14,10 +14,9 @@
 ## :rocket: Build With
 This project was developed with the following technologies:
 
-- [NodeJS](https://nodejs.org/en/)
-- [ReactJS](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [VS Code](https://code.visualstudio.com/)
+<a href="https://nodejs.org/en/"><img alt="NodeJS" src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=nodedotjs"/></a> &nbsp;
+<a href="https://pt-br.reactjs.org/"><img alt="ReactJS" src="https://img.shields.io/badge/React-05122A?style=for-the-badge&logo=react"/></a> &nbsp;
+<a href="https://reactnative.dev/"><img alt="ReactNative" src="https://img.shields.io/badge/React_Native-05122A?style=for-the-badge&logo=react"/></a> &nbsp;
 
 ![Alt text](Ecoleta.jpg?raw=true "Title")
 
