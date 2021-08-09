@@ -21,6 +21,7 @@ This project was developed with the following technologies:
 ![Alt text](Ecoleta.jpg?raw=true "Title")
 
 ## :mailbox_with_mail: Contact me!
-Email: valney.junior@icomp.ufam.edu.br / neymarinho.junior@gmail.com
-
-[LinkedIn - Valney Marinho](https://www.linkedin.com/in/valney-júnior-b34384149)
+<div align="center">
+<a href="https://www.linkedin.com/in/valney-júnior-b34384149"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin"/></a> &nbsp;
+<a href="mailto:neymarinho.junior@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> &nbsp;
+</div>
